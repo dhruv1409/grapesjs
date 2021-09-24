@@ -1,0 +1,47 @@
+#gjs {
+  border: none;
+}
+/* Theming */
+
+/* Primary color for the background */
+.gjs-one-bg {
+  background-color: #333;
+}
+
+/* Secondary color for the text color */
+.gjs-two-color {
+  color: white;
+}
+
+/* Tertiary color for the background */
+.gjs-three-bg {
+  background-color: #222;
+  color: white;
+}
+
+/* Quaternary color for the text color */
+.gjs-four-color,
+.gjs-four-color-h:hover {
+  color: white;
+}
+
+.gjs-pn-devices {
+  /* border: 1px solid blue; */
+}
+
+.gjs-pn-devices-c {
+  /* border: 1px solid brown; */
+  display: none;
+}
+
+.gjs-pn-commands {
+  /* border: 1px solid red; */
+}
+
+.gjs-pn-options {
+  /* border: 1px solid yellow; */
+}
+
+.gjs-pn-views {
+  /* border: 1px solid orange; */
+}

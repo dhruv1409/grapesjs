@@ -10,6 +10,9 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3"
   },
+  "author": "Dhruv",
+  "license": "MIT",
+  "keywords": ["grapesjs","grapes-js","grapesjs editor","custom grapesjs editor","website builder"],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
